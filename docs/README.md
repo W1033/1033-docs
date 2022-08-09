@@ -1,0 +1,2 @@
+# Vuepress statics docs
+

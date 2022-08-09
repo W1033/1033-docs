@@ -1,0 +1,14 @@
+{
+  "name": "1033-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:W1033/1033-docs.git",
+  "author": "W1033",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs"
+  }
+}
