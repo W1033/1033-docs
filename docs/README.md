@@ -1,2 +1,1 @@
-# Vuepress statics docs
-
+# Hello Vuepress

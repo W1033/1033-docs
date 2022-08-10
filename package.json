@@ -9,6 +9,12 @@
     "vuepress": "^1.9.7"
   },
   "scripts": {
-    "docs:dev": "vuepress dev docs"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "dependencies": {
+    "markdown-it": "^13.0.1",
+    "markdown-it-mathjax3": "^4.3.1"
   }
 }
